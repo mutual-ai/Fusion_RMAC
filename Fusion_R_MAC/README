@@ -1,3 +1,9 @@
+
+
+Below is the readme from Tolias, we simply place here for others to configure the code.
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 What is it?
 (Below is from the original version of R-MAC)
 ===========
@@ -40,6 +46,7 @@ Execution
 
 ------------------------------------------------------------------------------
 ------------------------------------------------------------------------------
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 Our approach for fusion global and local R-MAC for effective object retrieval
 1) dataset directory
    --datasets
